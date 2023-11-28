@@ -15,7 +15,13 @@ The Olivia Rodrigo Lyrics Twitter bot was born out of a love for Olivia Rodrigo'
 - Available albums: SOUR and GUTS
 
 ## Sample Output
-[Add images or code snippets here to showcase the Twitter bot's output.]
+
+### There are all archives in that project:
+-Note you have to create a config.py file to create your variables
+![All archives](https://prnt.sc/JFol3Q5k2WoP)
+### This is the script file, importing the variables from config.py:
+- **(obviously I won't show my keys)**
+![Script file](https://prnt.sc/HcaQT0kCsfyn)
 
 ## How to Contribute
 1. If you encounter any issues or are unable to view specific lyrics, feel free to reach out to me via Twitter DM: [@gabijinx_](https://twitter.com/gabijinx_/) (right-click and open in a new tab).
