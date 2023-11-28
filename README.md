@@ -1,6 +1,6 @@
 # Olivia Rodrigo Lyrics
 
-## [@oliviarlyric](https://twitter.com/oliviarlyric)
+### Twitter profile: [@oliviarlyric](https://twitter.com/oliviarlyric)
 (right-click and open in a new tab)
 
 ## Description
