@@ -17,10 +17,10 @@ The Olivia Rodrigo Lyrics Twitter bot was born out of a love for Olivia Rodrigo'
 ## Sample Output
 
 ### There are all archives in that project:
--Note you have to create a config.py file to create your variables <br>
+- **Note you have to create a config.py file to create your variables** <br>
 ![All archives](https://i.imgur.com/ANKthHO.png)
 ### This is the script file, importing the variables from config.py:
-- **(obviously I won't show my keys)**
+- **(obviously I won't show you my keys)**
 ![Script file](https://i.imgur.com/DdpaxUd.png)
 
 ## How to Contribute
