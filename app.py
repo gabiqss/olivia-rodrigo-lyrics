@@ -1,16 +1,16 @@
 import tweepy
-from config import CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN, ACCESS_TOKEN_SECRET
+from config import CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN, ACCESS_TOKEN_SECRET # Import variables from config.py
 
-# Configurar a autenticação
+# Configuring OAuth
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
 auth.set_access_token(ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
 
-# Criar uma instância da API
+# Creating API object
 api = tweepy.API(auth)
 
-# Postar um tweet
+# Posting a tweet
 try:
     api.update_status("Olivia.")
-    print("Tweet enviado com sucesso!")
+    print("Tweet sent.")
 except tweepy.TweepyException as e:
-    print(f"Erro ao twittar: {e}")
+    print(f"Error: {e}")
