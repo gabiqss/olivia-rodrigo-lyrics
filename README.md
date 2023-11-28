@@ -32,12 +32,31 @@ We extend our gratitude to the open-source community for fostering the developme
 ## Getting Started
 To run the Olivia Rodrigo Lyrics Twitter bot, follow these steps:
 
-1. Clone the repository.
-2. Install the necessary dependencies.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/gabiqss/olivia-rodrigo-lyrics.git
+   ```
+   ```bash
+   cd olivia-rodrigo-lyrics
+3. Create a Virtual Environment (Venv):
+   ```bash
+   python3 -m venv venv
+4. Activate the Virtual Environment:
+   -on Windows:
+   ```bash
+   .\venv\Scripts\activate
+   ```
+   -on Linux or Mac:
+   ```bash
+   source venv/bin/activate
+   ```
+4. Install the necessary dependencies:
    ```bash
    pip3 install -r requirements.txt
 
-3. Run the bot script.
+5. Run the bot script!
+   ```bash
+   python app.py
 
 ## License
 This project is currently not licensed. All rights reserved.
