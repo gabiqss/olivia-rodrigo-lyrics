@@ -34,8 +34,9 @@ To run the Olivia Rodrigo Lyrics Twitter bot, follow these steps:
 
 1. Clone the repository.
 2. Install the necessary dependencies.
-3. [Additional setup steps, if any.]
-4. Run the bot script.
+   ```bash
+pip3 install -r requirements.txt´´´
+3. Run the bot script.
 
 ## License
 This project is currently not licensed. All rights reserved.
