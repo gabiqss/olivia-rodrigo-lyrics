@@ -13,7 +13,7 @@ The Olivia Rodrigo Lyrics Twitter bot was born out of a love for Olivia Rodrigo'
 - Automated posting of Olivia Rodrigo's lyrics on Twitter.
 - Regular updates for a continuous stream of heartfelt and relatable content.
 - Available albums: SOUR and GUTS
-
+<!-- 
 ## Sample Output
 
 ### There are all archives in that project:
@@ -22,7 +22,7 @@ The Olivia Rodrigo Lyrics Twitter bot was born out of a love for Olivia Rodrigo'
 ### This is the script file, importing the variables from config.py:
 - **(obviously I won't show you my keys)**
 ![Script file](https://i.imgur.com/DdpaxUd.png)
-
+-->
 ## How to Contribute
 1. If you encounter any issues or are unable to view specific lyrics, feel free to reach out to me via Twitter DM: [@gabijinx_](https://twitter.com/gabijinx_/) (right-click and open in a new tab).
 2. That's all for now!
