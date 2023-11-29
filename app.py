@@ -9,15 +9,15 @@ sys.path.extend([current_dir, parent_dir])
 
 print("sys.path:", sys.path)
 print("current_dir:", current_dir)
-from config import CONSUMER_KEY, CONSUMER_SECRET, PIN
+#from config import CONSUMER_KEY, CONSUMER_SECRET, PIN
 from requests_oauthlib import OAuth1Session
 import json
 import time
 import random
 from lyrics import lyrics
 
-consumer_key = CONSUMER_KEY
-consumer_secret = CONSUMER_SECRET
+consumer_key = '29DXjP5LDZN6LrqljYZcNyOBZ'
+consumer_secret = 'c2PF9EWr9sGVQvqZPRenoG2UQcG92h6oro9nfp9WZ6OZYHTYI5'
 
 lyrics = lyrics
 
