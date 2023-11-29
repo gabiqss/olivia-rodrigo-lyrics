@@ -69,7 +69,7 @@ To run the Olivia Rodrigo Lyrics Twitter bot, follow these steps:
 ## License
 This project is currently not licensed. All rights reserved.
 
-# All lyrics For Now
+# Available lyrics
 - **All lyrics were sorted by song from SOUR to GUTS**
   ### SOUR
   1. brutal, 2. traitor, 3. driver license, 4. 1 step forward, 3 steps back, 5. deja vu, 6. good 4 u, 7. enough for you, 8. happier, 9. jealousy, jealousy, 10. favorite crime, 11. hope ur okay
