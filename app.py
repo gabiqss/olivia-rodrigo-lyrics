@@ -1,3 +1,5 @@
+import sys
+sys.path.append('.')
 from config import CONSUMER_KEY, CONSUMER_SECRET, PIN
 from requests_oauthlib import OAuth1Session
 import json
