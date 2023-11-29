@@ -154,3 +154,7 @@ cython_debug/
 # Config.py
 
 config.py
+
+# app
+
+app2.py
