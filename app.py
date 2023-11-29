@@ -1,4 +1,4 @@
-from config import CONSUMER_KEY, CONSUMER_SECRET
+from config import CONSUMER_KEY, CONSUMER_SECRET, PIN
 from requests_oauthlib import OAuth1Session
 import json
 import time
@@ -31,7 +31,7 @@ print("Got OAuth token secret: %s" % resource_owner_secret)
 base_authorization_url = "https://api.twitter.com/oauth/authorize"
 authorization_url = oauth.authorization_url(base_authorization_url)
 print("Please go here and authorize: %s" % authorization_url)
-verifier = input("Paste the PIN here: ")
+verifier = input("Paste the PIN here: ") or '0146566'
 
 # Obter o token de acesso
 access_token_url = "https://api.twitter.com/oauth/access_token"
