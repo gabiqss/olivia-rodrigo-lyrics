@@ -9,15 +9,15 @@ sys.path.extend([current_dir, parent_dir])
 
 print("sys.path:", sys.path)
 print("current_dir:", current_dir)
-#from config import CONSUMER_KEY, CONSUMER_SECRET, PIN
+from config import CONSUMER_KEY, CONSUMER_SECRET, PIN
 from requests_oauthlib import OAuth1Session
 import json
 import time
 import random
 from lyrics import lyrics
 
-consumer_key = '29DXjP5LDZN6LrqljYZcNyOBZ'
-consumer_secret = 'c2PF9EWr9sGVQvqZPRenoG2UQcG92h6oro9nfp9WZ6OZYHTYI5'
+consumer_key = CONSUMER_KEY
+consumer_secret = CONSUMER_SECRET
 
 lyrics = lyrics
 
@@ -42,7 +42,7 @@ print("Got OAuth token secret: %s" % resource_owner_secret)
 base_authorization_url = "https://api.twitter.com/oauth/authorize"
 authorization_url = oauth.authorization_url(base_authorization_url)
 print("Please go here and authorize: %s" % authorization_url)
-verifier = '4204764' or input("Paste the PIN here: ")
+verifier = input("Paste the PIN here: ")
 
 # Obter o token de acesso
 access_token_url = "https://api.twitter.com/oauth/access_token"
