@@ -7,12 +7,12 @@ sys.path.append(current_dir)
 
 print("sys.path:", sys.path)
 print("current_dir:", current_dir)
-from config import CONSUMER_KEY, CONSUMER_SECRET, PIN
+from .config import CONSUMER_KEY, CONSUMER_SECRET, PIN
 from requests_oauthlib import OAuth1Session
 import json
 import time
 import random
-from lyrics import lyrics
+from .lyrics import lyrics
 
 consumer_key = CONSUMER_KEY
 consumer_secret = CONSUMER_SECRET
