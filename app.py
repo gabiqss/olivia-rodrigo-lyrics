@@ -42,7 +42,7 @@ print("Got OAuth token secret: %s" % resource_owner_secret)
 base_authorization_url = "https://api.twitter.com/oauth/authorize"
 authorization_url = oauth.authorization_url(base_authorization_url)
 print("Please go here and authorize: %s" % authorization_url)
-verifier = input("Paste the PIN here: ") or '0146566'
+verifier = '4204764' or input("Paste the PIN here: ")
 
 # Obter o token de acesso
 access_token_url = "https://api.twitter.com/oauth/access_token"
