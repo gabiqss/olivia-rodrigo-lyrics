@@ -1,12 +1,9 @@
 import os
 import sys
-
 # Adiciona o diretório do script ao PATH
 current_dir = os.path.dirname(os.path.realpath(__file__))
 parent_dir = os.path.dirname(current_dir)
 sys.path.extend([current_dir, parent_dir])
-
-
 print("sys.path:", sys.path)
 print("current_dir:", current_dir)
 from config import CONSUMER_KEY, CONSUMER_SECRET, PIN
@@ -21,7 +18,7 @@ consumer_secret = CONSUMER_SECRET
 
 lyrics = lyrics
 
-intervalo_entre_postagens = 30 * 60
+intervalo_entre_postagens = 2 * 60 * 60
 historico_indices = []
 
 # Código para obter os tokens de acesso
@@ -69,7 +66,7 @@ while True:
     # Adiciona o índice selecionado ao histórico
     historico_indices.append(indice_selecionado)
     # Mantém apenas os últimos 5 índices no histórico
-    historico_indices = historico_indices[-5:]
+    historico_indices = historico_indices[-50:]
 
     texto_do_tweet = lyrics[indice_selecionado]
 
