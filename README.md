@@ -3,6 +3,16 @@
 ### Twitter profile: [@oliviarlyric](https://twitter.com/oliviarlyric)
 (right-click and open in a new tab)
 
+## Table of Contents
+- [Description](#description)
+- [Project Motivation](#project-motivation)
+- [Features](#features)
+- [How to Contribute](#how-to-contribute)
+- [Acknowledgments](#acknowledgments)
+- [Getting Started](#getting-started)
+- [License](#license)
+- [Available Lyrics](#available-lyrics)
+
 ## Description
 This repository hosts a Twitter bot project committed to automatically posting lyrics from Olivia Rodrigo's songs. Powered by automation, this bot delivers a daily dose of your favorite Olivia Rodrigo lyrics straight to your Twitter feed. Stay tuned for the emotions, stories, and melodies that make Olivia's music unforgettable!
 
