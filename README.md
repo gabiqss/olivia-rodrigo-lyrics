@@ -72,9 +72,9 @@ This project is currently not licensed. All rights reserved.
 # Available lyrics
 - **All lyrics were sorted by song from SOUR to GUTS**
   ### SOUR
-  1. brutal, 2. traitor, 3. driver license, 4. 1 step forward, 3 steps back, 5. deja vu, 6. good 4 u, 7. enough for you, 8. happier, 9. jealousy, jealousy, 10. favorite crime, 11. hope ur okay
+   1. brutal, 2. traitor, 3. driver license, 4. 1 step forward, 3 steps back, 5. deja vu, 6. good 4 u, 7. enough for you, 8. happier, 9. jealousy, jealousy, 10. favorite crime, 11. hope ur okay
   ### GUTS
-  1. all-american bitch, 2. bad idea right?, 3. vampire, 4. lacy, 5. ballad of a homeschooled girl, 6. making the bed, 7. logical, 8. get him back!, 9. love is embarrassing, 10. the grudge, 11. pretty isn't pretty, 12. teenage dream
+   1. all-american bitch, 2. bad idea right?, 3. vampire, 4. lacy, 5. ballad of a homeschooled girl, 6. making the bed, 7. logical, 8. get him back!, 9. love is embarrassing, 10. the grudge, 11. pretty isn't pretty, 12. teenage dream
   ```python
   lyrics = [
 
