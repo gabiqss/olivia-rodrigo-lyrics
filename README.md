@@ -32,7 +32,7 @@ This project is made possible with the help of the following technologies:
 
 - **Python:** The programming language that forms the backbone of this project, providing a robust and versatile environment for development.
 
-- **Tweepy:** A Python library that simplifies the interaction with the Twitter API, making it seamless to implement Twitter-related functionalities in this project. Special thanks to the Tweepy community for their contributions and support.
+- **Requests-OAuthlib:** A library for OAuth support in Python. It simplifies the process of interacting with OAuth-based APIs like Twitter. Special thanks to the Requests-OAuthlib community for their contributions and support.
 
 We extend our gratitude to the open-source community for fostering the development of these tools and making them accessible for projects like ours.
 
