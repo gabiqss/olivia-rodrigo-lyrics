@@ -65,7 +65,7 @@ while True:
 
     # Adiciona o índice selecionado ao histórico
     historico_indices.append(indice_selecionado)
-    # Mantém apenas os últimos 5 índices no histórico
+    # Mantém apenas os últimos 50 índices no histórico
     historico_indices = historico_indices[-50:]
 
     texto_do_tweet = lyrics[indice_selecionado]
