@@ -4,14 +4,18 @@ lyrics = [
           "God, it's brutal out here",
           "I'm so insecure, I think, that I'll die before I drink",
           "got a broken ego, broken heart, and God, I don't even know where to start",
+          "they say these are the golden years but I wish that I could disappear",
 
           "it took you two weeks to go off and date her, guess you didn't cheat, but you're still a traitor",
+          "ain't it funny? remember I brought her up and you told me I was paranoid?",
+          "and ain't it funny how you ran to her the second that we called it quits?",
 
           "you were so excited for me to finally drive up to your house, but today I drove through the suburbs crying 'cause you weren't around",
           "'cause you said forever, now I drive alone past your street",
           "today I drove through the suburbs and pictured I was driving home to you",
           "and I know we weren't perfect, but I've never felt this way for no one. and I just can't imagine, how you could be so okay, now that I'm gone?",
           "can't drive past the places we used to go to, 'cause I still fucking love you, babe",
+          "guess you didn't mean what you wrote in that song about me",
           "all my friends are tired of hearing how much I miss you, but I kinda feel sorry for them, 'cause they'll never know you the way that I do, yeah",
 
           "you got me fucked up in the head, boy",
@@ -27,18 +31,24 @@ lyrics = [
 
           "good for you, you look happy and healthy, not me, if you ever cared to ask", 
           "well, good for you, I guess you moved on really easily, you found a new girl and it only took a couple weeks",
+          "remember when you said that you wanted to give me the world?",
+          "remember when you swore to god I was the only person who ever got you? well, screw that, and screw you",
           "I guess that therapist I found for you, she really helped. now you can be a better man for your brand-new girl",
           "maybe I'm too emotional, but your apathy's like a wound in salt. maybe I'm too emotional, or maybe you never cared at all",
 
           "'cause all I ever wanted was to be enough for you",
+          "now I don't want your sympathy I just want myself back before",
           "tried so hard to be everything that you liked, just for you to say you're not the compliment type",
 
           "you've moved on, found someone new, one more girl who brings out the better in you",
           "oh, I hope you're happy, but not like how you were with me. I'm selfish, I know, I can't let you go. so find someone great, but don't find no one better. I hope you're happy, but don't be happier",
           "but she's beautiful, she looks kind, she probably gives you butterflies",
+          "and do you tell her she's the most beautiful girl you've ever seen? an eternal love bullshit you know you'll never mean. remember when I believed you meant it when you said it first to me?",
 
           "I'm so sick of myself",
           "got a pretty face, a pretty boyfriend, too. I wanna be you so bad and I don't even know you",
+          "jealousy, jealousy, started following me",
+          "I kinda wanna throw my phone across the room, 'cause all I see are girls too good to be true with paper white teeth and perfect bodies",
 
           "the things I did, just so I could call you mine. the things you did, well, I hope I was your favorite crime",
           "I wonder if you're around, 'cause you know that I'd do it all again",

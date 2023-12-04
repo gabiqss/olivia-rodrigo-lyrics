@@ -152,9 +152,8 @@ cython_debug/
 #.idea/
 
 # Config.py
-
 config.py
 
 # app
-
+test.py
 app2.py
